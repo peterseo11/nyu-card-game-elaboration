@@ -1,0 +1,7 @@
+-Have eyes for player and enemy, animated - depending on the phase (-_-), (O_O), (T_T)
+
+-Have card hologram appear.
+
+-Have pseudo-3d character sprites for each character (player/computer)
+
+CARD SYSTEM;

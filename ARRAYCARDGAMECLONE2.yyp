@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "135820ef-9df2-457d-9f6e-b56fec70f4f9",
+            "Value": {
+                "id": "f52b788c-0e4e-444e-94f0-aa24d103ccd2",
+                "resourcePath": "sprites\\spr_lose\\spr_lose.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "14301ef2-a541-411e-bc3d-e41b8150ef0b",
             "Value": {
                 "id": "354d41b5-2e44-4323-805c-0c8c766a0a1a",
@@ -156,6 +164,14 @@
                 "id": "ff294182-28f5-4d17-a6e3-52e9f72c983e",
                 "resourcePath": "views\/411f99b0-86cb-456c-854d-2d02d82f0646.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "43986234-2a69-4c99-a663-d8b9b83de8f8",
+            "Value": {
+                "id": "99f8cd64-5b08-46fa-aefa-9a3609ce4aef",
+                "resourcePath": "objects\\obj_lose\\obj_lose.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "932fec0e-6667-4df8-bba3-6593c29ad8b5",
+            "Value": {
+                "id": "d158fce7-39e2-47c5-b68a-a76ef244c946",
+                "resourcePath": "sprites\\spr_win\\spr_win.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "bb916e21-ac48-4eff-a2dd-b63df75dec3c",
@@ -300,6 +324,14 @@
                 "id": "a9ba6f14-ebcf-44b4-841d-89e26a602024",
                 "resourcePath": "sprites\\spr_background\\spr_background.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e3e71b5-b095-49ca-8b5d-5f67be00ea0c",
+            "Value": {
+                "id": "9d18af0e-d7a1-4d18-8769-357caa19bc5d",
+                "resourcePath": "objects\\obj_win\\obj_win.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -428,6 +460,14 @@
                 "id": "4b215fbf-c9d9-40a3-afc2-ca173a5d3759",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdfa13b2-3bcc-4876-97b7-ca8be1e1539f",
+            "Value": {
+                "id": "d32d8acd-66b5-44a9-a56c-80bb8fa070ea",
+                "resourcePath": "sounds\\snd_paper\\snd_paper.yy",
+                "resourceType": "GMSound"
             }
         },
         {
